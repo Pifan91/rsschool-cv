@@ -1,4 +1,4 @@
-# __[rsschool-cv](https://kryvetski-andrei.github.io/rsschool-cv/)__
+# __[rsschool-cv](https://pifan91.github.io/rsschool-cv/)__
 
 # __Nikolay Epifanov__
 
